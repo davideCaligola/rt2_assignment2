@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+
+     <!-- Include package  assignment_2_2022 -->
+    <include file="$(find assignment_2_2022)/launch/assignment1.launch"/>
+
+</launch>
